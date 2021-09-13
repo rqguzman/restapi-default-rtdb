@@ -1,30 +1,36 @@
-{  
-  "comments" : {
-    "-Mh4j9Ayy0OCQQybPZGu" : {
-      "-MhJbDLKSBTW8wSIRY-i" : {
-        "text" : "It was a strange trip!"
-      },
-      "-MhJbuu06NrK3wyHSLmR" : {
-        "text" : "Tell me!"
-      }
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Sir Winston S. Churchill",
+      "text": "The price of greatness is responsibility."
+    },
+    {
+      "id": 2,
+      "author": "Sir Arthur Conan Doyle",
+      "text": "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth..."
+    },
+    {
+      "id": 3,
+      "author": "Agatha Christie",
+      "text": "Very few of us are what we seem."
+    },
+    {
+      "id": 4,
+      "author": "Max Schwarzmüller",
+      "text": "Learning React is fun!"
     }
-  },
-  "quotes" : {
-    "-Mh4idpPGalRY5uytn8e" : {
-      "author" : "Sir Winston S. Churchill",
-      "text" : "The price of greatness is responsibility."
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "It was a strange trip!",
+      "quoteId": 1
     },
-    "-Mh4ivJ5IVk3GjqBRcOv" : {
-      "author" : "Sir Arthur Conan Doyle",
-      "text" : "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth..."
-    },
-    "-Mh4j-ZmkLUcacGTfhW8" : {
-      "author" : "Agatha Christie",
-      "text" : "Very few of us are what we seem."
-    },
-    "-Mh4j9Ayy0OCQQybPZGu" : {
-      "author" : "Max Schwarzmüller",
-      "text" : "Learning React is fun!"
+    {
+      "id": 2,
+      "text": "Tell me!",
+      "quoteId": 1
     }
-  }
+  ]
 }
