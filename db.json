@@ -1,20 +1,24 @@
 {
-  "quotes": {
-    "-Mh4idpPGalRY5uytn8e": {
+  "quotes": [
+    {
+      "id": "1",
       "author": "Sir Winston S. Churchill",
       "text": "The price of greatness is responsibility."
     },
-    "-Mh4ivJ5IVk3GjqBRcOv": {
+    {
+      "id": "2",
       "author": "Sir Arthur Conan Doyle",
       "text": "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth..."
     },
-    "-Mh4j-ZmkLUcacGTfhW8": {
+    {
+      "id": "3",
       "author": "Agatha Christie",
       "text": "Very few of us are what we seem."
     },
-    "-Mh4j9Ayy0OCQQybPZGu": {
+    {
+      "id": "4",
       "author": "Max Schwarzmüller",
       "text": "Learning React is fun!"
     }
-  }
+  ]
 }
